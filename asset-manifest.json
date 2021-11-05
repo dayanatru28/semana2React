@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dayanatru28/semana2React/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dayanatru28/semana2React/static/js/main.d69d620f.chunk.js",
+    "main.js.map": "/dayanatru28/semana2React/static/js/main.d69d620f.chunk.js.map",
+    "runtime-main.js": "/dayanatru28/semana2React/static/js/runtime-main.847f626f.js",
+    "runtime-main.js.map": "/dayanatru28/semana2React/static/js/runtime-main.847f626f.js.map",
+    "static/js/2.d391f75b.chunk.js": "/dayanatru28/semana2React/static/js/2.d391f75b.chunk.js",
+    "static/js/2.d391f75b.chunk.js.map": "/dayanatru28/semana2React/static/js/2.d391f75b.chunk.js.map",
+    "static/js/3.809e9c2b.chunk.js": "/dayanatru28/semana2React/static/js/3.809e9c2b.chunk.js",
+    "static/js/3.809e9c2b.chunk.js.map": "/dayanatru28/semana2React/static/js/3.809e9c2b.chunk.js.map",
+    "index.html": "/dayanatru28/semana2React/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dayanatru28/semana2React/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d391f75b.chunk.js.LICENSE.txt": "/dayanatru28/semana2React/static/js/2.d391f75b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dayanatru28/semana2React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.847f626f.js",
+    "static/js/2.d391f75b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d69d620f.chunk.js"
+  ]
+}
